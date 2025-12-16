@@ -21,7 +21,6 @@ from reportlab.lib.utils import ImageReader
 # Config
 COLS = 5 # Number of columns
 MARGIN_MM = 0.5 # Margin (in millimeters)
-A4_WIDTH_MM, A4_HEIGHT_MM = 210, 297 # Paper size (in millimeters)
 folder, output = "images", "output.pdf" # Folder where images are located / output file name
 
 
